@@ -1,1 +1,1 @@
-# goit-markup-hw-01.1.github.io
+# goit-markup-hw-01.github.io
